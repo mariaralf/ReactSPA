@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b952142d-5341-4954-a91d-4080f0ae9eef": {
+      "ProjectGuid": "b952142d-5341-4954-a91d-4080f0ae9eef",
+      "DisplayName": "reactproject2",
+      "ColorIndex": 0
+    },
+    "e7527ed6-5c81-4085-b62b-cfcc5467d249": {
+      "ProjectGuid": "e7527ed6-5c81-4085-b62b-cfcc5467d249",
+      "DisplayName": "Backend",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}
